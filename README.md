@@ -1,1 +1,1 @@
-working not complete
+completed will update readme soon
